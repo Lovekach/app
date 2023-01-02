@@ -1,0 +1,32 @@
+* {
+    color: red;
+}
+
+p {
+    color: darkcyan;
+}
+
+.heading1 {
+    text-decoration: underline;
+    color: darkmagenta;
+}
+
+.heading2 {
+    text-transform: uppercase;
+}
+
+p.fz20 {
+    font-size: 20px;
+}
+
+#heading {
+    color: blue;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+
+q.simple {
+    color: brown;
+    color: aqua;
+
+}

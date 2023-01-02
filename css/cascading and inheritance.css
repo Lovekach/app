@@ -1,0 +1,39 @@
+/* p {
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
+
+.style1 {
+    background-color: aquamarine;
+    color: black;
+    border: none !important;
+}
+
+#style2 {
+    background-color: yellow;
+    border: 2px solid black;
+    color: red;
+}
+
+p {
+    background-color: gray;
+} */
+
+body {
+    color: red;
+    border: 3px solid black;
+    margin-bottom: 30px;
+    
+
+}
+
+p {
+    border: inherit;
+    background-color: yellow;
+    margin: inherit;
+}
+
+a {
+    
+}

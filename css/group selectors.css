@@ -1,0 +1,39 @@
+h1,
+h2,
+span {
+    color: red;
+}
+
+div p{
+    color: goldenrod;
+}
+
+
+div p span {
+    color: greenyellow;
+}
+
+ul li>span   {
+    color: rgb(153, 97, 236);
+    font-weight: bold;
+}
+
+ul li+li   {
+    color: magenta;
+}
+
+
+br ~ p {
+    color:dodgerblue;
+    font-size: 35px;
+}
+
+a[target] {
+  background-color: yellow; 
+  
+}
+
+a[target="_blank"] {
+    background-color: green;  
+  }
+
