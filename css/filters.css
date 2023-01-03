@@ -1,0 +1,26 @@
+body {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    transition: all 1s ease;
+}
+
+/* img:hover {
+    filter: blur(3px);
+    /* filter: drop-shadow(5px 6px 4px rgba(0,0,0,0.5));
+    filter: grayscale(80%);
+    filter: brightness(-50%-150%);
+    filter: contrast(150%);
+    filter: hue-rotate(0deg-360deg);
+    filter: invert(100%);
+    filter: opacity(0-100%);
+    filter: saturate(0%-....);
+    filter: sepia(0%-100%);
+    
+} */ 
