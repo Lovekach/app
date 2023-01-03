@@ -1,0 +1,26 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    min-height: 100vh;
+    width: 100%;
+
+    /* background-color: rgb(199, 198, 198);
+    background-image: url(https://avatars.mds.yandex.net/i?id=43f1a029d98aef8cb0091dba04947086_l-5292126-images-thumbs&n=27&h=384&w=480);
+    background-size: 300px 150px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-attachment: fixed; */
+
+
+            /* Общая формула: */
+    /* background: darkgray url(https://avatars.mds.yandex.net/i?id=43f1a029d98aef8cb0091dba04947086_l-5292126-images-thumbs&n=27&h=384&w=480) 50% 50% no-repeat fixed; */
+
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1461px-CSS.3.svg.png) center no-repeat ,url(https://avatars.mds.yandex.net/i?id=43f1a029d98aef8cb0091dba04947086_l-5292126-images-thumbs&n=27&h=384&w=480) ;
+
+
+
+    
+}
