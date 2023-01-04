@@ -1,0 +1,19 @@
+.example {
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;background-color: aqua;
+
+    /* Общая запись св-ва */
+    transition: all 1s ease .05s;
+
+    /* Каждое св-во */
+    transition-duration: 3s, 2s;
+    transition-property: transform, background-color;
+    transition-delay: 0, 500ms;
+    transition-timing-function: linear;
+}
+
+.example:hover {
+    background-color: red;
+    transform: scale(1.2);
+}
