@@ -1,0 +1,25 @@
+.wrapper {
+    
+}
+
+img {
+
+    transition: all 1s ease;
+    transform-origin: right bottom;
+
+}
+
+img:hover {
+   transform: rotate(180deg);
+   /* transform: scale(0.2, 1.2);
+   transform: scaleX(0.2);
+   transform: scaleY(1.2);
+   transform: translate(-30px, -50px);
+   transform: translateX(30px, -50px);
+   transform: translateY(-30px, 50px);
+   transform: skew(45deg, 10deg);
+   transform: skewY(45deg, 10deg);
+   transform: skewX(45deg, 10deg);
+   transform: rotate(90deg); */
+
+}ы
