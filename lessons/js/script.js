@@ -6,3 +6,5 @@ let greeting = 'Hello';
 
 console.log(greeting + ', ' + firstName + '!');
 console.log(intro + '\n' + info);
+
+
