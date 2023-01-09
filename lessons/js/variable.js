@@ -12,3 +12,8 @@ console.log(carCoast);
 
 carCoast.colorWhite = true;
 console.log(carCoast,carCoast.popular)
+
+delete carCoast.popular;
+delete carCoast.new;
+console.log(carCoast);
+
