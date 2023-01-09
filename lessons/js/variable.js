@@ -13,7 +13,13 @@ console.log(carCoast);
 carCoast.colorWhite = true;
 console.log(carCoast,carCoast.popular)
 
+
+//Оператор удаления
 delete carCoast.popular;
 delete carCoast.new;
 console.log(carCoast);
 
+
+const nameCarBidOrLitlle = 'litlle';
+carCoast[nameCarBidOrLitlle] = 'Pegeout'
+console.log(carCoast);
