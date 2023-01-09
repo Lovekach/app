@@ -19,7 +19,18 @@ delete carCoast.popular;
 delete carCoast.new;
 console.log(carCoast);
 
-
-const nameCarBidOrLitlle = 'litlle';
+//[....]
+const nameCarBidOrLitlle = 'litllecar';
 carCoast[nameCarBidOrLitlle] = 'Pegeout'
 console.log(carCoast);
+
+//Объекты
+const name = 'Valery';
+const ageHim = 30;
+
+const metaData = {
+    name,
+    ageHim,
+    hasGotPerson: true
+}
+console.log(metaData);
