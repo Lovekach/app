@@ -34,3 +34,31 @@ const metaData = {
     hasGotPerson: true
 }
 console.log(metaData);
+
+//Глобальные объекты
+
+console.log(10);
+window.console.log(10);
+globalThis.console.log(10);
+
+//Методы Объекта
+
+const myCar = {
+    car: 'Audi',
+    carGreeting() {
+        console.log('Greeating!!');
+    }
+}
+
+myCar.carGreeting()
+// JSON
+
+const post = {
+    title: 'My post',
+    likesQty: 5
+}
+JSON.stringify(post);// -->> Код JavaScript в строчный код JSON
+
+const postStringified = JSON.stringify(post);
+JSON.parse(postStringified);// -->>Cтрочный код JSON в код JavaScript
+
