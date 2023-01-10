@@ -1,0 +1,20 @@
+
+p {
+    display: inline;
+}
+
+h2{
+    color: red;
+    font-size: 20px;
+}
+
+#massa {
+    display: block;
+    font-size: 30px;
+    color: orange;
+}
+
+.priority {
+    color: tomato;
+    font-size: 45px;
+}
