@@ -18,3 +18,37 @@ h2{
     color: tomato;
     font-size: 45px;
 }
+
+button {
+
+    height: 35px;
+    border-radius: 25px;
+}
+
+button:hover {
+    color: green;
+    cursor: pointer;
+    box-shadow: 16px 16px 20px 15px rgba(34, 60, 80, 0.2);
+}
+
+p.who::before {
+    content: open-quote;
+    color: green;
+}
+
+p.who::after {
+    content: close-quote;
+    color: green;
+}
+
+article > p {
+    color: red;
+}
+
+h2 ~ p {
+    color: blue;
+}
+
+h2 + p {
+    color: pink;
+}
