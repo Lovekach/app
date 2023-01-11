@@ -44,15 +44,22 @@ h3 {
     font-weight: 500;
 }
 
+section {
+    padding: 100px;
+}
+
 h1 {
     font-weight: 700;
     font-size: 44px;
+    text-align: center;
+    margin-bottom: px;
 }
 
 .card {
     background: #FFFFFF;
     border-radius: 5px;
     border: 2px solid #E6E6E6;
+    padding: 46px 20px;
 }
 
 a {
