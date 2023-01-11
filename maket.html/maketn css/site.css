@@ -81,3 +81,8 @@ footer img {
 p span {
     font-weight: 700;
 }
+
+card {
+ display: flex;
+ flex-direction: row;
+}
