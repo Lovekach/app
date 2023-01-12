@@ -1,3 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+p {
+    font-family: 'Lobster', sans-serif;
+    font-size: 30px;
+}
+
+
 .main {
     height: 400px;
     width: 700px;
@@ -10,6 +22,11 @@
 
 .main_block {
     border: 1px solid black;
-    height: 60px;
-    width: 60px;
-}   
+    height: 150px;
+    width: 300px;
+    background-color: aquamarine;
+}  
+
+img {
+    background-color: transparent;
+}
