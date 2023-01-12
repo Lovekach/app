@@ -67,6 +67,7 @@ h3 {
 
 section {
     padding: 100px;
+    flex-grow: 1;
 }
 
 h1 {
@@ -118,7 +119,7 @@ footer img {
 footer a{
     display: flex;
     align-items: center;
-    flex-grow: 2;
+
 }
 
 p span {
