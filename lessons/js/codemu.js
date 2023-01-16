@@ -1,5 +1,2 @@
-"use strict";
-let a = 10,
-alert(a);
-let b = 20;
-alert(b);
+const a = 'Hello';
+console.log(a);
