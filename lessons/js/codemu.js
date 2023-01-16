@@ -13,3 +13,8 @@ const sum = e + f;
 e = 10;
 f = 20;
 console.log(sum);
+
+let myName = 'Valera';
+let mySoName = 'Zubov';
+nickname = myName + mySoName;
+console.log(nickname);
