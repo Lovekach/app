@@ -18,3 +18,9 @@ let myName = 'Valera';
 let mySoName = 'Zubov';
 nickname = myName + mySoName;
 console.log(nickname);
+
+let myName = 'Valera';
+let mySoName = 'Zubov';
+nickname = myName + mySoName;
+let age = 30;
+console.log('Меня зовут ' + nickname + 'и мне' + age + 'лет');
