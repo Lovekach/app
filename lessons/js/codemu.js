@@ -78,4 +78,11 @@ let b = 0.75;
 let summ = a + b;
 alert(sum);
 
+let a = -100;
+alert(a);
+
+let a = 100;
+alert(-a);
+
+
 
