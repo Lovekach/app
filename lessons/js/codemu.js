@@ -66,4 +66,16 @@ alert(result);
 let a = 2 * 2 + 3;
 alert(a);
 
+let a = 0.5;
+alert(a);
+
+let a = 0.5 + 0.5;
+alert(a);
+
+
+let a = 1.5;
+let b = 0.75;
+let summ = a + b;
+alert(sum);
+
 
