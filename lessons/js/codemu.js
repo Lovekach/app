@@ -85,4 +85,17 @@ let a = 100;
 alert(-a);
 
 
+alert(10 % 3);// Остаток 1
+alert(10% 2);// Остаток 0
+
+let a = 10;
+let b = 3;
+alert(a % b); // выведет 1
+
+
+let a = 13;
+let b = 5;
+alert(a % b);
+
+
 
