@@ -63,4 +63,7 @@ let d = 7;
 let result = c + d;
 alert(result);
 
+let a = 2 * 2 + 3;
+alert(a);
+
 
