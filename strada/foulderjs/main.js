@@ -11,3 +11,10 @@ console.log(4 / 2);
 console.log(3 * 3);
 
 console.log(`${3 + 3}`);
+
+let nameCar = 'Opel';
+let ageCar = 5;
+let conditionCar;
+let result = (nameCar - ageCar) * conditionCar;
+console.log(conditionCar);
+console.log(result);
