@@ -18,3 +18,5 @@ let conditionCar;
 let result = (nameCar - ageCar) * conditionCar;
 console.log(conditionCar);
 console.log(result);
+
+// number String undefined NAN null boolean symbol bigInt
